@@ -14,12 +14,5 @@ Target Variable: `price` → Continuous value (car price)
 Models Used: Linear Regression
              Decision Tree Regressor
              Random Forest Regressor
-
-Model Evaluation
-
-Model               R² Score 
-Linear Regression    ~0.80    
-Decision Tree        ~0.88    
-Random Forest        ~0.93 
-
+             
 Tech Stack: Python,Pandas, NumPy,Matplotlib, Seaborn,Scikit-learn
